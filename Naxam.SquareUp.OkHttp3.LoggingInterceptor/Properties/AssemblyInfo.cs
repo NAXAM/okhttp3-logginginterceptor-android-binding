@@ -6,10 +6,10 @@ using Android.App;
 // Change them to the values specific to your project.
 
 [assembly: AssemblyTitle("Naxam.SquareUp.OkHttp3.LoggingInterceptor")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Xamarin Binding Library for OkHttp3 LoggingInterceptor")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("NAXAM CO.,LTD")]
-[assembly: AssemblyProduct("")]
+[assembly: AssemblyProduct("X Bindings")]
 [assembly: AssemblyCopyright("(c) 2017 NAXAM")]
 [assembly: AssemblyTrademark("NAXAM")]
 [assembly: AssemblyCulture("")]
