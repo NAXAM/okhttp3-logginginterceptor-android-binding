@@ -3,20 +3,20 @@
     <metadata>
         <!-- Required elements-->
         <id>Naxam.SquareUp.OkHttp3.LoggingInterceptor</id>
-        <version>3.6.0</version>
+        <version>3.9.1</version>
         <description>Xamarin Binding Library - Square OkHttp3 Logging Interceptor</description>
         <authors>Vu Duc Tuyen</authors>
         <owners>NAXAM CO.,LTD</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <title>Naxam - Square OkHttp3 Logging Interceptor</title>
-        <releaseNotes>Square OkHttp3 Logging Interceptor v3.6.0</releaseNotes>
+        <releaseNotes>Square OkHttp3 Logging Interceptor v3.9.1</releaseNotes>
         <summary>Xamarin Binding Library - Square OkHttp3 Logging Interceptor</summary>
         <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
         <projectUrl>https://github.com/NAXAM/xand-okhttp3-logginginterceptor</projectUrl>
         <copyright>Copyright (c) 2017 NAXAM</copyright>
         <tags>Xamarin.Android, okhttp3, logging-interceptor, logginginterceptor</tags>
         <dependencies>
-            <dependency id="Naxam.SquareUp.OkHttp3" version="3.6.0" />
+            <dependency id="Naxam.SquareUp.OkHttp3" version="3.9.1" />
         </dependencies>
     </metadata>
     <!-- Optional 'files' node -->
