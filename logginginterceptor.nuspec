@@ -16,7 +16,7 @@
         <copyright>Copyright (c) 2017 NAXAM</copyright>
         <tags>Xamarin.Android, okhttp3, logging-interceptor, logginginterceptor</tags>
         <dependencies>
-            <dependency id="Naxam.SquareUp.OkHttp3" version="3.9.1" />
+            <!-- <dependency id="Naxam.SquareUp.OkHttp3" version="3.9.1" /> -->
         </dependencies>
     </metadata>
     <!-- Optional 'files' node -->
