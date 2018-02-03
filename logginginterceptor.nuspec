@@ -3,14 +3,14 @@
     <metadata>
         <!-- Required elements-->
         <id>Naxam.SquareUp.OkHttp3.LoggingInterceptor</id>
-        <version>3.9.1.1</version>
-        <description>Xamarin Binding Library - Square OkHttp3 Logging Interceptor</description>
+        <version>3.9.1.2</version>
+        <description>Xamarin.Android binding library - OkHttp3 LoggingInterceptor</description>
         <authors>NAXAM</authors>
         <owners>NAXAM CO.,LTD</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <title>Naxam - Square OkHttp3 Logging Interceptor</title>
-        <releaseNotes>Square OkHttp3 Logging Interceptor v3.9.1.1</releaseNotes>
-        <summary>Xamarin Binding Library - Square OkHttp3 Logging Interceptor</summary>
+        <releaseNotes>Fix issue: Missing native library</releaseNotes>
+        <summary>Xamarin.Android binding library - OkHttp3 LoggingInterceptor</summary>
         <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
         <projectUrl>https://github.com/NAXAM/xand-okhttp3-logginginterceptor</projectUrl>
         <copyright>Copyright (c) 2017 NAXAM</copyright>

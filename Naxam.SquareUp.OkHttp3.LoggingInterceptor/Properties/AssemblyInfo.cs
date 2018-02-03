@@ -6,11 +6,11 @@ using Android.App;
 // Change them to the values specific to your project.
 
 [assembly: AssemblyTitle("Naxam.SquareUp.OkHttp3.LoggingInterceptor")]
-[assembly: AssemblyDescription("Xamarin Binding Library for OkHttp3 LoggingInterceptor")]
+[assembly: AssemblyDescription("Xamarin.Android binding Library - OkHttp3 LoggingInterceptor")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("NAXAM CO.,LTD")]
-[assembly: AssemblyProduct("X Bindings")]
-[assembly: AssemblyCopyright("(c) 2017 NAXAM")]
+[assembly: AssemblyProduct("XBindings")]
+[assembly: AssemblyCopyright("Copyright (c) 2017-present NAXAM")]
 [assembly: AssemblyTrademark("NAXAM")]
 [assembly: AssemblyCulture("")]
 
@@ -18,8 +18,8 @@ using Android.App;
 // The form "{Major}.{Minor}.*" will automatically update the build and revision,
 // and "{Major}.{Minor}.{Build}.*" will update just the revision.
 
-[assembly: AssemblyVersion("3.6.0")]
-[assembly: AssemblyInformationalVersion("3.6.0")]
+[assembly: AssemblyVersion("3.9.1.2")]
+[assembly: AssemblyInformationalVersion("3.9.1")]
 
 // The following attributes are used to specify the signing key for the assembly, 
 // if desired. See the Mono documentation for more information about signing.
